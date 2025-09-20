@@ -1,0 +1,17 @@
+{
+  "name": "eslint-config-custom",
+  "version": "0.0.0",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "dev": "echo 'No dev script needed for eslint-config-custom'",
+    "build": "echo 'No build script needed for eslint-config-custom'",
+    "lint": "echo 'No lint script needed for eslint-config-custom'"
+  },
+  "dependencies": {
+    "eslint-config-next": "^13.4.19",
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-plugin-import": "^2.28.1",
+    "eslint": "^8.48.0"
+  }
+}
