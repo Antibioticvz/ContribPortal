@@ -1,0 +1,21 @@
+{
+  "name": "contrib-portal",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "build": "turbo run build",
+    "dev": "turbo run dev",
+    "lint": "turbo run lint",
+    "type-check": "turbo run type-check"
+  },
+  "devDependencies": {
+    "turbo": "^1.10.12"
+  },
+  "packageManager": "npm@9.6.7",
+  "engines": {
+    "node": ">=18"
+  }
+}
