@@ -1,0 +1,11 @@
+{
+  "name": "db",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Database schema and migrations for ContribPortal",
+  "scripts": {
+    "build": "echo 'No build script needed for db package'",
+    "dev": "echo 'No dev script needed for db package'",
+    "lint": "echo 'No lint script needed for db package'"
+  }
+}
